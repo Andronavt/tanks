@@ -1,0 +1,12 @@
+Icon?
+.DS_Store
+.svn
+code_coverage
+*~
+*.swp
+coverage
+*.db
+.classpath
+.project
+.settings/
+bin/
